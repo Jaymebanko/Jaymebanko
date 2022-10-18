@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jaymebanko
+- 👋 Hi, I’m @JaimeAC
 - 👀 I’m interested in ... Motorsports, tech, and building things with my hands. 
 - 🌱 I’m currently learning ... Javascript
 
